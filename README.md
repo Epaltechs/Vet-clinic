@@ -26,7 +26,9 @@ Feel free to check the [issues page](https://github.com/Epaltechs/Vet-clinic/iss
 Give a :star:️ if you like this project!
 
 ## Acknowledgments
-🎩 I hail all those who have contributed in one way or the other to this project.
+-🎩Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## :memo: License
 This project is [MIT](./MIT.md) licensed.
