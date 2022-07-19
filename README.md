@@ -1,8 +1,6 @@
-# curriculum-databases-projects-template
+# Vet-Clinic Database
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
+> This is an SQL database that records data of dogs in a vet clinic, stores the data in a table and makes it possible to query the data input.
 
 ## Getting Started
 
@@ -13,36 +11,23 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 
-## Authors
+## Author
+## 👤 **Emmanuel Paul**
 
-👤 **Author1**
+- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/Vet-clinic)
+- Twitter: [Emmanuel Paul](http://twitter.com/@emmapaul247)
+- LinkedIn: [Emmanuel Paul](https://www.linkedin.com/in/emmanuel-s-paul/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
+## :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Epaltechs/Vet-clinic/issues).
 
 ## Show your support
-
-Give a ⭐️ if you like this project!
+Give a :star:️ if you like this project!
 
 ## Acknowledgments
+-🎩Hat tip to anyone whose code was used
+- I hail all those who gave me inspiration and who in one way or the other have contributed to this project.
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
+## :memo: License
 This project is [MIT](./MIT.md) licensed.
