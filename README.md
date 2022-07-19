@@ -27,8 +27,7 @@ Give a :star:️ if you like this project!
 
 ## Acknowledgments
 -🎩Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- I hail all those who gave me inspiration and who in one way or the other have contributed to this project.
 
 ## :memo: License
 This project is [MIT](./MIT.md) licensed.
