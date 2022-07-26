@@ -2,6 +2,8 @@
 
 > This is an SQL database that records data of dogs in a vet clinic, stores the data in a table and makes it possible to query the data input.
 
+![Screenshot](schema diagram for vet clinic.png)
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
